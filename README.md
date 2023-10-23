@@ -4,6 +4,7 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
+  <a href="" title="Views - Luis Angel D D"><img src="https://komarev.com/ghpvc/?username=luisangeldd&label=Profile%20views&color=0e75b6&style=flat" alt="luisangeldd"/></a>
   <a href="https://www.linkedin.com/in/luis-angel-diaz-dorantes" title="LinkedIn - Luis Angel D D"><img src="https://img.shields.io/badge/-Luis_Angel-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   </kbd>
 </p>
