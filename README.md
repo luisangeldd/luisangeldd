@@ -9,13 +9,7 @@
   </kbd>
 </p>
 
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
-   <br>
-  
 <!-- About Section -->
-<details>
   <summary><b>👤 About</b></summary>
     <p>
       <img align="right" height="250" src="https://github.com/luisangeldd/luisangeldd/blob/main/assets/profile_picture.jpg" alt="Luis Angel D D" />
@@ -33,10 +27,8 @@ When I'm not at the keyboard, play games, and hanging out with friends.
 ----
   
   </p>
-</details>
 
   <!-- Tech Stack -->  
-<details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
 
@@ -51,5 +43,3 @@ When I'm not at the keyboard, play games, and hanging out with friends.
 ----      
 
   </p>
-</details>
-<!--
