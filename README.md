@@ -16,7 +16,7 @@
       
 <blockquote>
 
-I software engineer based in Veracruz MX. And I love writing code!
+I software engineer based in Puebl MX. And I love writing code!
 
 I have a small homelab, which I'm using to learn more about mobile design. 
 
